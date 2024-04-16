@@ -1,0 +1,7 @@
+.chartX{
+    position:absolute;
+    margin-top:20px;
+    width:20px;
+    height:200px;
+    border: 2px solid #eb0c0c;
+}

@@ -1,0 +1,42 @@
+.formWrapper {
+    justify-content: left;
+    margin-right: 20px;
+
+    align-items: center;
+}
+
+.form {
+    display: inline-flex;
+    flex-direction: column;
+    width: 500px;
+
+    font-size: 1.2em;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.button {
+    width: fit-content;
+    font-size: 1.2em;
+    background-color: blue;
+
+}
+
+.main {
+    display: grid;
+    margin-left: 1em;
+    grid-template-columns: 1fr;
+
+}
+
+.input {
+    height: 3rem;
+    font-size: larger;
+}
+.button_p{
+    display:flex;
+    font-size: larger;
+    
+
+    margin-top:20px;
+}

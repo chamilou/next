@@ -1,0 +1,15 @@
+.input {
+    display: none;
+}
+
+.image {
+    width: 200px;
+    border-radius: 30%;
+
+    height: 300px;
+}
+
+.p {
+    margin: 1rem;
+    color: brown;
+}

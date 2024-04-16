@@ -1,0 +1,15 @@
+.nav{
+    display:flex;
+    justify-content: center;
+    font-size: 1.3rem;
+}
+.active{
+    background-color: rgb(2, 50, 50);
+}
+.link{
+    display:flex;
+    margin:1em;
+}
+.active:hoover{
+    font-size: 1.3rem;
+}
