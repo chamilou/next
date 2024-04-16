@@ -9,7 +9,7 @@ export default  async function Home() {
    
     <main>
       <div className={styles.content}>
-        <div>This is some div!</div>
+        
 
 <PostsGrid posts={listOfPosts}></PostsGrid>
       </div>
